@@ -9,6 +9,7 @@
 :man_student: I'm currently pursuing [Master Science of Data Science](https://datascience.columbia.edu/education/programs/m-s-in-data-science/) at Columbia University. \
 :writing_hand: I share my learning experience and write tutorial. Welcome to visit my [Tech blog](https://blog.csdn.net/qq_41103204). \
 :basketball: I love travel, photography, movies and basketball. (My basketball skills are as good as my data science skills. [Don't believe it?](https://www.instagram.com/alex_yang97/)) \
+:earth_asia: Welcome to [my website](https://alex2yang97.github.io/). \
 :mailbox: How to reach me: zy2494@columbia.edu
 
 
