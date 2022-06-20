@@ -63,17 +63,10 @@
 
 
 
-### :luggage: Some Projects :
+### :luggage: Some Blog Posts :
 
-<a href="https://github.com/Alex2Yang97/GoldenCross">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex2Yang97&repo=GoldenCross" />
-</a>&nbsp
-<a href="https://github.com/Alex2Yang97/waiting_time_project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex2Yang97&repo=waiting_time_project" />
-</a>
-<a href="https://github.com/Alex2Yang97/Telco_Customer_Churn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex2Yang97&repo=Telco_Customer_Churn" />
-</a>&nbsp
-<a href="https://github.com/Alex2Yang97/Video_Game_Recommender">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alex2Yang97&repo=Video_Game_Recommender" />
-</a>
+- [Shap tutorial-interpretable machine learning | 可解释机器学习-shap value的使用](https://blog.csdn.net/qq_41103204/article/details/104896630)
+- [Time series-ACF and PACF| 时间序列-怎么理解ACF 和PACF](https://blog.csdn.net/qq_41103204/article/details/105810742)
+- [Gaussian kernel smoothing| 高斯核平滑Gaussian kernel smoothing-非参数密度估计](https://blog.csdn.net/qq_41103204/article/details/104755527)
+- [More...](https://blog.csdn.net/qq_41103204)
+
