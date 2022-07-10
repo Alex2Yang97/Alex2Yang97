@@ -7,7 +7,9 @@
 ---
 
 :man_student: I'm currently pursuing [Master Science of Data Science](https://datascience.columbia.edu/education/programs/m-s-in-data-science/) at Columbia University. \
-:writing_hand: I share my learning experience and write tutorial. Welcome to visit my [Tech blog](https://blog.csdn.net/qq_41103204). \
+:man_technologist: My career goal is to become a [full-stack data scientist](https://towardsdatascience.com/full-stack-data-scientist-a-jack-of-all-trades-6490e007298) using data to create values for people, business and society. \
+:globe_with_meridians: I focus on Natural language processing (NLP), Recommender systems, Model explainability (interpretable machine learning), and Model deployment. \
+:writing_hand: I share my learning experience and write tutorials. Welcome to visit my [Tech blog](https://blog.csdn.net/qq_41103204). \
 :basketball: I love travel, photography, movies and basketball. (My basketball skills are as good as my data science skills. [Don't believe it?](https://www.instagram.com/alex_yang97/)) \
 :earth_asia: Welcome to [my website](https://alex2yang97.github.io/). \
 :mailbox: How to reach me: zy2494@columbia.edu
@@ -43,7 +45,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="r" alt="r" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="60" height="60"/>&nbsp;
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" alt="aws" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="docker" alt="docker" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html" alt="html" width="60" height="60"/>&nbsp;
 </div>
 
 ---
