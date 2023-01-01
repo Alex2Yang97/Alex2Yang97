@@ -6,7 +6,7 @@
 
 ---
 
-:man_student: I'm currently pursuing [Master Science of Data Science](https://datascience.columbia.edu/education/programs/m-s-in-data-science/) at Columbia University. \
+:man_student: I'm a [data science](https://datascience.columbia.edu/education/programs/m-s-in-data-science/) graduate student at Columbia University. \
 :man_technologist: My career goal is to become a [full-stack Data Scientist/Machine Learning Engineer](https://towardsdatascience.com/full-stack-data-scientist-a-jack-of-all-trades-6490e007298) using data to create values for people, business and society. \
 :globe_with_meridians: I focus on Natural language processing (NLP), Recommender systems, Model explainability (interpretable machine learning), and Model deployment. \
 :writing_hand: I share my learning experience and write tutorials. Welcome to visit my [Tech blog](https://blog.csdn.net/qq_41103204). \
