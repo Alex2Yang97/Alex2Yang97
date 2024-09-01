@@ -10,8 +10,7 @@
 :man_technologist: My career goal is to become a [full-stack Data Scientist/Machine Learning Engineer](https://towardsdatascience.com/full-stack-data-scientist-a-jack-of-all-trades-6490e007298) using data to create values for people, business and society. \
 :globe_with_meridians: I focus on Natural language processing (NLP), Recommender systems, Model explainability (interpretable machine learning), and Model deployment. \
 :writing_hand: I share my learning experience and write tutorials. Welcome to visit my [Tech blog](https://blog.csdn.net/qq_41103204). \
-:basketball: I love travel, photography, movies and basketball. (My basketball skills are as good as my data science skills. [Don't believe it?](https://www.instagram.com/alex_yang97/)) \
-:earth_asia: Welcome to [my website](https://alex2yang97.github.io/). \
+:basketball: I love travel, photography, movies and basketball.
 :mailbox: How to reach me: zy2494@columbia.edu
 
 
@@ -25,9 +24,6 @@
   </a>
   <a href="https://blog.csdn.net/qq_41103204">
     <img src="https://img.shields.io/badge/-Tech%20Blog-brightgreen?style=for-the-badge&logo=rss&logoColor=white" alt="instagram Badge"/>
-  </a>
-  <a href="https://www.instagram.com/alex_yang97/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
   </a>
 </div>
 <div id="profile-views" align="center">
